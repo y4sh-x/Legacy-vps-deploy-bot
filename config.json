@@ -1,9 +1,0 @@
-{
-  "botName": "Legacy Vps Deploy",
-  "hostingName": "Legacy Cloud",
-  "token": "YOUR_DISCORD_BOT_TOKEN",
-  "clientId": "YOUR_CLIENT_ID",
-  "guildId": "YOUR_GUILD_ID",
-  "prefix": "$",
-  "defaultExpiryDays": 30
-}
